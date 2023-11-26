@@ -141,5 +141,10 @@ body {
     color: #8C5400;
     text-decoration: none;
 }
+
+.social-networks-link:hover {
+    color: #fff;
+}
+
 /* end of footer */
 
