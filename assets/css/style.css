@@ -5,7 +5,7 @@
 html {
     font-size: 62.5%;
     box-sizing: border-box;
-    min-height: 180vh;
+    min-height: 170vh;
 }
 
 body {
@@ -106,11 +106,20 @@ body {
 }
 /* end of main content common styles*/
 /* home page*/
+
+
+
 .history-heading {
     padding: 0 1rem;
     font-size: 1.2rem;
     font-style: normal;
     text-align: justify;
+}
+
+.history hr {
+    margin: 0 4rem 0 1rem;
+    border: solid .1rem;
+    color: #8C5400;
 }
 
 .history-paragraph {
