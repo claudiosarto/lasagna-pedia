@@ -56,15 +56,17 @@ body {
 .navbar {
     position: absolute;
     background-color: #DD9529;
+    width: 100%;
     top:-35rem;
     right:0rem;
     transition: top 1.5s;
     z-index: -1;
 }
+
 .navbar-list {
     list-style-type: none;
     font-size: 2rem;    
-    padding: 0 1rem;
+    padding: 0 1.5rem;
 }
 
 .navbar-list-item {
@@ -77,4 +79,8 @@ body {
 }
 /* End of navicon and navbar*/
 /* end of header */
+
+/**/
+
+/**/
 
