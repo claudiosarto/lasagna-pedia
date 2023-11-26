@@ -13,3 +13,28 @@ body {
     font-family: "Courier Prime", 'Courier New';
 }
 /* End of common styles*/
+
+/* header*/
+.header {
+    display: flex;
+}
+
+.brand {
+    display:flex;
+    align-items:center;
+    flex-direction: row;
+    text-transform: uppercase;
+    font-size: 1.8rem;    
+    letter-spacing: .1rem;
+}
+
+.brand img {
+    height: 5rem;
+}
+
+.brand-heading {
+    margin:0;
+}
+
+/* end of header */
+
