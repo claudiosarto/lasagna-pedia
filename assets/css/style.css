@@ -20,6 +20,9 @@ body {
 /* header*/
 .header {
     display: flex;
+    position: fixed;
+    width: 100%;
+    justify-content: space-between;
     background-color: #DD9529;
 }
 
@@ -41,14 +44,14 @@ body {
 
 .brand-heading {
     margin:0;
+    padding-left: .5rem;
 }
-
 
 /* Navicon and navbar*/
 .navicon {
-    position: fixed;
     right: 1rem;
     top: 1rem;
+    padding-right: .5rem;
     display:flex;
     align-items:center;
     font-size: 3rem;
@@ -87,6 +90,7 @@ body {
 
 .introduction {
     text-align: center;
+    margin-top: 6rem;
 }
 
 .introduction-heading {
@@ -107,9 +111,6 @@ body {
     font-size: 1rem;
 
 }
-
-
-
 
 
 
