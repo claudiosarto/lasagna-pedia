@@ -54,20 +54,26 @@ body {
 .navbar {
     position: absolute;
     background-color: #DD9529;
-    left:0;
+    top:5rem;
+    right:0;
     display:none;
 }
 
 .navbar-list {
     list-style-type: none;
     font-size: 2rem;    
-    padding: 0 3rem;
+    padding: 0 1rem;
 }
 
 .navbar-list-item {
     color:#8C5400;  
     text-decoration: none;
 }
+
+#checkbox:checked ~ .navbar{
+    display:block;
+}
+
 
 
 /* End of navicon and navbar*/
