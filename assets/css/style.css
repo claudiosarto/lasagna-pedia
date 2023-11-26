@@ -93,20 +93,24 @@ body {
 }
 
 .introduction-heading {
+    padding: 0 1rem;
     font-size: 1.5rem;
 }
 
 .introduction-paragraph {
+    padding: 0 1rem;
     font-size: 1.2rem;
 }
 
 .history-heading {
+    padding: 0 1rem;
     font-size: 1.2rem;
     font-style: normal;
     text-align: justify;
 }
 
 .history-paragraph {
+    padding: 0 1rem;
     font-size: 1rem;
 
 }
