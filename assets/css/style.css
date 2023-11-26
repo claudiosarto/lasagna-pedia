@@ -86,22 +86,25 @@ body {
 /* End of navicon and navbar*/
 /* end of header */
 
-/* Main Content*/
-.home-introduction {
+/* Main Content */
+/* main content common styles*/
+
+.introduction {
     text-align: center;
     margin-top: 6rem;
 }
 
-.home-introduction-heading {
+.introduction-heading {
     padding: 0 1rem;
     font-size: 1.5rem;
 }
 
-.home-introduction-paragraph {
+.introduction-paragraph {
     padding: 0 1rem;
     font-size: 1.2rem;
 }
-
+/* end of main content common styles*/
+/* home page*/
 .history-heading {
     padding: 0 1rem;
     font-size: 1.2rem;
@@ -114,6 +117,15 @@ body {
     font-size: 1rem;
 
 }
+/* end home page*/
+
+/* recipe */
+
+/* end of recipe */
+
+/* contact */
+
+/* end of contact */
 /* End of Main Content*/
 
 /* footer */
