@@ -89,6 +89,28 @@ body {
     text-align: center;
 }
 
+.introduction-heading {
+    font-size: 1.5rem;
+}
+
+.introduction-paragraph {
+    font-size: 1.2rem;
+}
+
+.history-heading {
+    font-size: 1.2rem;
+    font-style: normal;
+    text-align: justify;
+}
+
+.history-paragraph {
+    font-size: 1rem;
+
+}
+
+
+
+
 
 
 /* End of Main Content*/
