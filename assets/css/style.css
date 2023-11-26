@@ -17,6 +17,7 @@ body {
 /* header*/
 .header {
     display: flex;
+    background-color: #DD9529;
 }
 
 .brand {
@@ -26,6 +27,8 @@ body {
     text-transform: uppercase;
     font-size: 1.8rem;    
     letter-spacing: .1rem;
+    color:#8C5400;
+    background-color: #DD9529;
 }
 
 .brand img {
@@ -36,5 +39,37 @@ body {
     margin:0;
 }
 
+
+/* Navicon and navbar*/
+.navicon {
+    position: fixed;
+    right: 1rem;
+    top: 1rem;
+    display:flex;
+    align-items:center;
+    font-size: 3rem;
+    color:#8C5400;
+}
+
+.navbar {
+    position: absolute;
+    background-color: #DD9529;
+    left:0;
+    display:none;
+}
+
+.navbar-list {
+    list-style-type: none;
+    font-size: 2rem;    
+    padding: 0 3rem;
+}
+
+.navbar-list-item {
+    color:#8C5400;  
+    text-decoration: none;
+}
+
+
+/* End of navicon and navbar*/
 /* end of header */
 
