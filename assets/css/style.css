@@ -16,6 +16,7 @@ body {
     flex-direction: column;
     background-color: #FFCC7F;
 }
+
 /* End of common styles*/
 
 /* header*/
@@ -132,6 +133,10 @@ body {
 /* end of recipe */
 
 /* contact */
+
+.contact-img {
+    width: 100%;    
+}
 
 /* end of contact */
 /* End of Main Content*/
