@@ -156,6 +156,14 @@ body {
     list-style-position: inside;
 }
 
+.instruction-final img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 2rem;
+  }
+
 /* end of recipe */
 
 /* contact */
