@@ -127,15 +127,12 @@ body {
 /* end home page*/
 
 /* recipe */
-
-.ingredients ul , .instructions ol{
-    margin-left: 0rem;
-    padding-left: 2rem;
-    padding-right: 2rem;
+.recipe h3 {
+    margin: 0 5rem 0 2rem;
 }
 
 .recipe hr {
-    margin: 0 5rem 0 0;
+    margin: 0 5rem 0 2rem;
     border: solid .1rem;
     color: #8C5400;
 }
@@ -145,6 +142,12 @@ body {
     font-size: 1.2rem;
     font-style: normal;
     text-align: center;
+}
+
+.ingredients ul , .instructions ol{
+    margin-left: 0rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .ingredients-list-ragout li , .ingredients-list-bechamel li , .ingredients-list-others li{
