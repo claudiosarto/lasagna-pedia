@@ -108,20 +108,20 @@ body {
 /* home page*/
 
 .history-heading {
-    padding: 0 1rem;
+    padding: 0 2rem;
     font-size: 1.2rem;
     font-style: normal;
     text-align: justify;
 }
 
 .history hr {
-    margin: 0 4rem 0 1rem;
+    margin: 0 4rem 0 2rem;
     border: solid .1rem;
     color: #8C5400;
 }
 
 .history-paragraph {
-    padding: 0 1rem;
+    padding: 0 2rem;
     font-size: 1rem;
 }
 /* end home page*/
