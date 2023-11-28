@@ -122,10 +122,10 @@ body {
 
 .history img {
     display: block;
-    margin-left: auto;
+    margin-left: 2rem;
     margin-right: auto;
     width: 80%;
-    padding: 1rem;
+    padding: 1rem 0rem;
 }
 
 .history-paragraph {
