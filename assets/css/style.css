@@ -120,6 +120,14 @@ body {
     color: #8C5400;
 }
 
+.history img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    padding: 1rem;
+}
+
 .history-paragraph {
     padding: 0 2rem;
     font-size: 1rem;
