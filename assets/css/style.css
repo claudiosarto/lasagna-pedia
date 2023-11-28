@@ -147,10 +147,10 @@ body {
 
 .recipe img {
     display: block;
-    margin-left: auto;
+    margin-left: 2rem;
     margin-right: auto;
     width: 80%;
-    padding: 1rem;
+    padding: 1rem 0rem;
 }
 
 .ingredients-heading, .instructions-heading {
@@ -174,14 +174,6 @@ body {
 .instructions-list-ragout li , .instructions-list-bechamel li , .instructions-list-others li, .instructions-list-assembly li{
     list-style-position: inside;
 }
-
-.instruction-final img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    padding: 2rem;
-  }
 
 /* end of recipe */
 
