@@ -135,6 +135,7 @@ body {
 /* end home page*/
 
 /* recipe */
+
 .recipe h3 {
     margin: 0 5rem 0 2rem;
 }
@@ -179,6 +180,11 @@ body {
 
 /* contact */
 
+.contact {
+    display: flex;
+    flex-direction: column;    
+}
+
 .contact img {
     display: block;
     margin-left: auto;
@@ -187,8 +193,37 @@ body {
     padding: 2rem;  
 }
 
+.contact-form {
+    margin-left: 10%;
+    margin-right: auto;
+    padding: 0 0 3rem 0;
+}
+.contact-form label {
+    font-family: inherit;
+    font-size: 1.2rem;
+    margin: 0.5rem;
+}
+.contact-form input[type=text],input[type=email] {
+    border: solid .1rem #8C5400;
+    background-color:#FFCC7F;
+    font-family: inherit;
+    font-size: 1.2rem;
+    margin: 0.5rem;
+}
+
+.contact-form textarea {
+    border: solid .1rem #8C5400;
+    background-color:#FFCC7F;
+    font-family: inherit;
+    font-size: 1.2rem;
+    margin: 0.5rem;
+    width: 100%;    
+}
+
+
+
 /* end of contact */
-/* End of Main Content*/
+/* end of Main Content*/
 
 /* footer */
 
