@@ -267,3 +267,23 @@ body {
 
 /* end of footer */
 
+/* Media query: screens above 720px*/
+@media screen and (min-width: 720px) {
+    html {
+        font-size: 100%;
+    }     
+
+    .introduction-heading {
+        font-size: 1.7rem;
+    }
+
+    .history-heading {
+        font-size: 1.5rem
+    }          
+    
+    .ingredients-heading, .instructions-heading {
+        font-size: 1.5rem;
+    }
+
+
+}  
