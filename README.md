@@ -37,15 +37,10 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 - Add a "where to buy" all the proper ingredients
 - Evolve the site to a full eCommerce to sell all the different variations
 
-
-
 ### Content 
 
-- History section has been generated with the help of https://chat.openai.com/. Content has been checked for antiplagiarism on 
-https://www.quetext.com/, report available at this link https://www.quetext.com/results/335349786683fe3a0f42
-    - index page report
-    - 
-- Recipe section has been generated with the help of https://chat.openai.com/ and tuned to reflect what I generally cook by myelf, although the recipe can vary from region to region. an antiplagiarism check has been performed using  
+- History page has been generated with the help of [ChatGPT](https://chat.openai.com/). Content has been checked for antiplagiarism on using [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/335349786683fe3a0f42) 
+- Recipe page has been generated with the help of [ChatGPT](https://chat.openai.com/) and tuned to reflect what I generally cook by myelf, although the recipe can vary from region to region. an antiplagiarism check has been performed [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/412b3c17cbec008cda94)
 
 ### Credits
 
