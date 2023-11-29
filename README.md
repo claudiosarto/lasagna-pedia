@@ -15,17 +15,20 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 - __Navigation Bar__
 
     - This structure provides clear and straightforward navigation links for users to easily find their way through the sections of the website and it's embeeded in each page for easy navigation.
-    - It changes depending on the type of device in use.
 
 - __Landing Page__
+    - Page dedicated to welcoming the user on the website and give an historical overview on the product (Lasagna)
 
 - __Recipe__
+    - Page contain ingredients and instructions to make Lasagna at home following the traditional recipe. 
 
 - __Contact__
+    - This page provide a contact form with name, last name, email and textarea.
 
 - __Footer__
+    - The footer, like the navigation bar is implemented in all the pages. It has links to social media contacts.
 
-### Features Left to Implement
+### Future Features left to Implement
 
 - Add additional recipe variations (e.g. vegetarian version, lactose intolerant version, etc)
 - Add search box to find your favorite recipe
