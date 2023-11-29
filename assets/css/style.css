@@ -192,16 +192,16 @@ body {
 
 /* contact */
 
-.contact {
+.contact-wrapper {
     display: flex;
     flex-direction: column;    
 }
 
-.contact img {
+.contact-img img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
+    max-width: 80%;
     padding: 2rem;  
 }
 
@@ -229,10 +229,8 @@ body {
     font-family: inherit;
     font-size: 1.2rem;
     margin: 0.5rem;
-    width: 100%;    
+    width: 50%;    
 }
-
-
 
 /* end of contact */
 /* end of Main Content*/
@@ -348,5 +346,22 @@ body {
     display:flex;
     justify-content: space-around;
     flex-wrap: wrap;   
-    }    
+    }  
+    
+    .contact-wrapper  {
+        display:flex;
+        flex-direction: row;
+        align-items: center;
+    }  
+        
+    .contact-img {
+        margin:0;
+        max-width: 50%;
+    }  
+        
+    .contact-form {
+            max-width: 50%;
+    }  
+    
+
 }   
