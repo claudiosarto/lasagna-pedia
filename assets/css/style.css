@@ -229,7 +229,8 @@ body {
     font-family: inherit;
     font-size: 1.2rem;
     margin: 0.5rem;
-    width: 50%;    
+    width:33vh;    
+    height:7rem; 
 }
 
 /* end of contact */
