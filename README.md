@@ -38,3 +38,20 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 - Evolve the site to a full eCommerce to sell all the different variations
 
 
+
+### Content 
+
+- History section has been generated with the help of https://chat.openai.com/. Content has been checked for antiplagiarism on 
+https://www.quetext.com/, report available at this link https://www.quetext.com/results/335349786683fe3a0f42
+    - index page report
+    - 
+- Recipe section has been generated with the help of https://chat.openai.com/ and tuned to reflect what I generally cook by myelf, although the recipe can vary from region to region. an antiplagiarism check has been performed using  
+
+### Credits
+
+Inspiration for the layout from the walthrough project "love Running" from Code institute
+Some CSS tecniques (e.g. basic styling on html and body elements) have been reused from walkthrough project "Grand Hotel" from [Udemy - CSS Bootcamp - Master CSS (CSS Grid / CSS Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) 
+
+Icons from [Font Awesome](https://fontawesome.com/)
+Fonts from [Google Fonts](https://fonts.google.com/)
+Images converted to webp with [Birme](https://www.birme.net/)
