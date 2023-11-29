@@ -262,10 +262,6 @@ body {
     text-decoration: none;
 }
 
-.social-networks-link:hover {
-    color: #fff;
-}
-
 /* end of footer */
 
 /* Media query: screens above 720px*/
@@ -363,6 +359,10 @@ body {
     .contact-form {
             max-width: 50%;
     }  
+
+    .social-networks-link:hover {
+        color: #fff;
+    }
     
 
 }   
