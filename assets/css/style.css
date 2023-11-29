@@ -315,5 +315,27 @@ body {
 @media screen and (min-width: 1050px) {
     html {
         font-size: 120%;
-    }     
-}  
+    } 
+    
+    .history-wrapper div {
+        max-width: 50%;
+    } 
+
+    .history-wrapper {
+    display:flex;
+    display:row;
+    justify-content: space-around;
+    flex-wrap: wrap;   
+    }  
+
+    .recipe-wrapper div {
+        max-width: 50%;
+    } 
+    
+    .recipe-wrapper {
+        display:flex;
+        display:row;
+        justify-content: space-around;
+        flex-wrap: wrap;   
+    }   
+}   
