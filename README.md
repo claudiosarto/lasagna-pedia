@@ -1,8 +1,8 @@
 # Lasagna-pedia
 
-[Visit the live website link](https://claudiosarto.github.io/lasagna-pedia/)
+[Visit the live website link](https://claudiosarto.github.io/lasagna-pedia/index.html)
 
-![Responsice Mockup] <!--placeholder-->
+![Responsice Mockup](docs/lasagna-pedia-responsive-mockup.PNG) 
 
 Lasagna-pedia is a site dedicated to one of the most appreciated Italian pasta plates in the world (ranked in top 10) - Lasagna.
 The site aim to give a background history on when and how this plate is born and evolved during history. 
