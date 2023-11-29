@@ -140,6 +140,10 @@ body {
 
 /* recipe */
 
+.recipe h2 {
+    font-size: 1.3rem;
+}
+
 .recipe h3 {
     margin: 0 5rem 0 2rem;
 }
@@ -179,6 +183,8 @@ body {
 .instructions-list-ragout li , .instructions-list-bechamel li , .instructions-list-others li, .instructions-list-assembly li{
     list-style-position: inside;
 }
+
+
 
 /* end of recipe */
 
