@@ -242,21 +242,12 @@ body {
     border-radius: 1rem;
 }
 
-.contact-form input[type=submit]:hover {
+.contact-form input[type=submit]:hover, input[type=reset]:hover{
     cursor: pointer;
     background-color: #8C5400;
     color: #FFCC7F;
-    box-shadow: black;
-
+    border: solid 2px;
 }
-
-.contact-form input[type=reset]:hover {
-    cursor: pointer;
-    background-color: #8C5400;
-    color: #FFCC7F;
-    border: red;
-}
-
 
 /* end of contact */
 /* end of Main Content*/
@@ -388,7 +379,7 @@ body {
     }  
 
     .social-networks-link:hover {
-        color: #fff;
+        color: #FFCC7F;
     }
     
 
