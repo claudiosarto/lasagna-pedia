@@ -12,21 +12,23 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 
 ### Existing Features
 
-- __Navigation Bar__
+- __Navigation Bar__  
+    This structure provides clear and straightforward navigation links for users to easily find their way through the sections of the website and it's embeeded in each page for easy navigation.
 
-    - This structure provides clear and straightforward navigation links for users to easily find their way through the sections of the website and it's embeeded in each page for easy navigation.
+- __Landing Page__  
+    Page dedicated to welcoming the user on the website and give an historical overview on the product (Lasagna)
+    ![Landing Page](docs/lasagna-pedia-home.PNG)
 
-- __Landing Page__
-    - Page dedicated to welcoming the user on the website and give an historical overview on the product (Lasagna)
+- __Recipe__  
+    Page contain ingredients and instructions to make Lasagna at home following the traditional recipe. 
+    ![Recipe Page](docs/lasagna-pedia-recipe.PNG)
 
-- __Recipe__
-    - Page contain ingredients and instructions to make Lasagna at home following the traditional recipe. 
+- __Contact__  
+    This page provide a contact form with name, last name, email and textarea.
+    ![Contact Page](docs/lasagna-pedia-contact.PNG)
 
-- __Contact__
-    - This page provide a contact form with name, last name, email and textarea.
-
-- __Footer__
-    - The footer, like the navigation bar is implemented in all the pages. It has links to social media contacts.
+- __Footer__  
+    The footer, like the navigation bar is implemented in all the pages. It has links to social media contacts.
 
 ### Future Features left to Implement
 
