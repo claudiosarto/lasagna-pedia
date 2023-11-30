@@ -398,8 +398,12 @@ body {
         display:flex;        
     }
         
-    .navbar-list  li{
+    .navbar-list  li {
         padding-left:1.5rem;
     }  
-    
+
+    .active-page {
+        border-top:#FFCC7F 2px solid;
+        border-bottom:#FFCC7F 2px solid;
+    } 
 }   
