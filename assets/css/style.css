@@ -379,6 +379,27 @@ body {
     .social-networks-link:hover {
         color: #FFCC7F;
     }
-    
 
+    .navicon {
+        display:none;
+    }
+        
+    .navbar {
+    position:fixed;
+    top:0;
+    height: 5rem;    
+    width: fit-content; 
+    display:flex;    
+    align-items:center;
+    }
+        
+    .navbar-list  {
+        margin:0;
+        display:flex;        
+    }
+        
+    .navbar-list  li{
+        padding-left:1.5rem;
+    }  
+    
 }   
