@@ -44,31 +44,27 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 ### UX Design  
 TBD
 
+### Color Scheme
+
+TBD
+
 ### Code Implementation Approach  
 TBD
 
 ## Testing  
-Please refer to ![Lasagna-pedia Testing](TESTING.md) for the performed tests.
-
-### HTML/CSS Validation
-TBD
-
-### Responsiveness 
-TBD
-
-### Lighthouse Performance
-TBD
+Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed tests.
 
 ### Content  
 
 - History page has been generated with the help of [ChatGPT](https://chat.openai.com/). Content has been checked for antiplagiarism on using [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/335349786683fe3a0f42) 
-- Recipe page has been generated with the help of [ChatGPT](https://chat.openai.com/) and tuned to reflect what I generally cook by myelf, although the recipe can vary from region to region. an antiplagiarism check has been performed [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/412b3c17cbec008cda94)
+- Recipe page has been generated with the help of [ChatGPT](https://chat.openai.com/) and tuned to reflect what I generally cook by myelf, although the recipe can vary from region to region. Content has been checked for antiplagiarism on using [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/412b3c17cbec008cda94)
+- All media used have been generated using GenAI embedded in [Microsoft Designer](https://designer.microsoft.com/) - [T&C](https://designer.microsoft.com/termsOfUse.pdf)
 
 ### Credits
 
-Inspiration for the layout from the walthrough project "love Running" from Code institute
-Some CSS tecniques (e.g. basic styling on html and body elements) have been reused from walkthrough project "Grand Hotel" from [Udemy - CSS Bootcamp - Master CSS (CSS Grid / CSS Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) 
-
-Icons from [Font Awesome](https://fontawesome.com/)
-Fonts from [Google Fonts](https://fonts.google.com/)
-Images converted to webp with [Birme](https://www.birme.net/)
+- Inspiration for the layout from the walthrough project "love Running" from Code institute
+- Some CSS tecniques (e.g. basic styling on html and body elements) have been reused from walkthrough project "Grand Hotel" from [Udemy - CSS Bootcamp - Master CSS (CSS Grid / CSS Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) 
+- Readme structure/approach from [The Quiz Arms ](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md)
+- Icons from [Font Awesome](https://fontawesome.com/)
+- Fonts from [Google Fonts](https://fonts.google.com/)
+- Images converted to webp with [Birme](https://www.birme.net/)
