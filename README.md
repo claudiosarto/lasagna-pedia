@@ -48,6 +48,7 @@ TBD
 TBD
 
 ## Testing  
+Please refer to ![Lasagna-pedia Testing](TESTING.md) for the performed tests.
 
 ### HTML/CSS Validation
 TBD
