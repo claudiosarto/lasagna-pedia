@@ -181,12 +181,14 @@ body {
     padding-right: 2rem;
 }
 
-.ingredients-list-ragout li , .ingredients-list-bechamel li , .ingredients-list-others li{
+.ingredients-list-ragout li, .ingredients-list-bechamel li, .ingredients-list-others li{
+    font-size: 1.1rem;
     list-style-position: inside;
     list-style-type:circle;
 }
 
 .instructions-list-ragout li , .instructions-list-bechamel li , .instructions-list-others li, .instructions-list-assembly li{
+    font-size: 1.1rem;
     list-style-position: inside;
 }
 
