@@ -4,12 +4,12 @@
 
 ## HTML/CSS Validation
 
-I used [W3C HTML](https://validator.w3.org/) validator to verfiy HTML compliance. No errors found.
-Index
+I used [W3C HTML](https://validator.w3.org/) validator to verfiy HTML compliance. No errors found.  
+Index Page
 ![W3 Validator - index](docs/w3-validator-index.html.png) 
-Recipe
+Recipe Page
 ![W3 Validator - recipe](docs/w3-validator-recipe.html.png) 
-Contact
+Contact Page
 ![W3 Validator - contact](docs/w3-validator-contact.html.png) 
 
 I used [W3C CSS](https://jigsaw.w3.org/css-validator/) validator to verfiy CSS compliance. No errors found.
