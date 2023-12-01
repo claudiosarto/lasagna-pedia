@@ -67,4 +67,4 @@ Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed test
 - Readme structure/approach from [The Quiz Arms ](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md)
 - Icons from [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
-- Images converted to webp with [Birme](https://www.birme.net/)
+- Images converted to webp with [Birme](https://www.birme.net/) 
