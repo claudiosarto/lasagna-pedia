@@ -82,6 +82,10 @@ body {
     padding: 0 1.5rem;
 }
 
+.navbar-list li {
+    padding: 0.2rem 0;      
+}
+
 .navbar-list-item {
     color:#8C5400;  
     text-decoration: none;
