@@ -18,9 +18,10 @@ Contact Page:
 
 ![W3 Validator - contact](docs/w3-validator-contact.html.png) 
 -
+
 I used [W3C CSS](https://jigsaw.w3.org/css-validator/) validator to verfiy CSS compliance. No errors found.
 ![W3 Validator - css](docs/w3-validator-style.css.png) 
--
+
 ### Lighthouse Performance
 
 I used Lighthouse tool integrated in Chrome Developer to verify the performance, accessibility, best practices and SEO for all the website pages.
@@ -39,4 +40,36 @@ I used Lighthouse tool integrated in Chrome Developer to verify the performance,
 
 ## Manual Tests
 
-TBD
+Testing performed on the following devices:
+- Laptop:
+    - Dell Latitude 15" screen
+
+- Mobile devices:
+    - Samsung A51
+    - iPhone 14
+
+- Browsers tested on each device:
+    - Google Chrome
+    - Firefox
+    - Microsoft Edge (Laptop only)
+
+#### Home Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+|---|---|---|---|---|
+| Navbar (Mobile) | Navbar appear | Click the top right 3 lines | Navigation bar appears | Pass |
+| Navbar (Mobile) | Navbar disappear | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
+| Navbar Home (Mobile) | Home Page Reload | Clock "Home" link from navbar | Home page reloads | Pass |
+| Navbar Recipe (Mobile) | Open Recipe page | Click "Recipe" link from navbar | Recipe page opens | Pass |
+| Navbar Contact (Mobile) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
+| Navbar Home (Desktop) | Home Page Reload | Clock "Home" link from navbar | Home page reloads | Pass |
+| Navbar Recipe (Desktop) | Open Recipe page | Click "Recipe" link from navbar | Recipe page opens | Pass |
+| Navbar Contact (Desktop) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
+| External link recipe | Open Giallo Zafferano recipe | Click on the link at the end of the page | Giallozafferano site open in a separate tab | Pass |
+| Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
+| Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color to white | Hover on every social media link opening in a new tab | All icons change color to white | Pass |
+
+
+#### Recipe Page
+
+#### Contact Page
