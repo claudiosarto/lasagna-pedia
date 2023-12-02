@@ -67,9 +67,21 @@ Testing performed on the following devices:
 | Navbar Contact (Desktop) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
 | External link recipe | Open Giallo Zafferano recipe | Click on the link at the end of the page | Giallozafferano site open in a separate tab | Pass |
 | Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
-| Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color to white | Hover on every social media link opening in a new tab | All icons change color to white | Pass |
-
+| Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
 
 #### Recipe Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+|---|---|---|---|---|
+| Navbar (Mobile) | Navbar appear | Click the top right 3 lines | Navigation bar appears | Pass |
+| Navbar (Mobile) | Navbar disappear | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
+| Navbar Home (Mobile) | Open Home Page | Clock "Home" link from navbar | Home page opens | Pass |
+| Navbar Recipe (Mobile) | Reload Recipe page | Click "Recipe" link from navbar | Recipe page reloads | Pass |
+| Navbar Contact (Mobile) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
+| Navbar Home (Desktop) | Open Home Page | Clock "Home" link from navbar | Home page opens | Pass |
+| Navbar Recipe (Desktop) | Reload Recipe page | Click "Recipe" link from navbar | Recipe page reloads | Pass |
+| Navbar Contact (Desktop) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
+| Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
+| Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
 
 #### Contact Page
