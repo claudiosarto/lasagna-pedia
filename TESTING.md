@@ -98,4 +98,7 @@ Testing performed on the following devices:
 | Navbar Contact (Desktop) | Reload Contact page | Click "Contact" link from navbar | Contact page reloads | Pass |
 | Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
 | Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
-
+| Input form - Mandatory fields | Form Cannot be submitted  | Leave any of the mandatory fields (First Name, Email, Message) empty and click submitt | "Please fill out this field" message is given | Pass |
+| Input form - Email field | Check email is valid | Fill email field with wrong input and click submit | "Please enter an email address" message is given | Pass |
+| Input form - Submit | Open the CI form check in another page | After all the fields are compiled correctly, click submit button | Code Institute Returned form data page open in another tab | Pass |
+| Input form - Reset | All input fields are cleared | After all the fields are compiled correctly, click reset button | All fields are reset | Pass |
