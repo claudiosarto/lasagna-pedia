@@ -17,19 +17,19 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 
 - __Landing Page__  
     Page dedicated to welcoming the user on the website and give an historical overview on the product (Lasagna)
-    ![Landing Page](docs/lasagna-pedia-home.PNG)
+    ![Landing Page](docs/lasagna-pedia-home.png)
 
 - __Recipe__  
     Page contain ingredients and instructions to make Lasagna at home following the traditional recipe. 
-    ![Recipe Page](docs/lasagna-pedia-recipe.PNG)
+    ![Recipe Page](docs/lasagna-pedia-recipe.png)
 
 - __Contact__  
     This page provide a contact form with name, last name, email and textarea.
-    ![Contact Page](docs/lasagna-pedia-contact.PNG)
+    ![Contact Page](docs/lasagna-pedia-contact.png)
 
 - __Footer__  
     The footer, like the navigation bar is implemented in all the pages. It has links to social media contacts.
-    ![Footer](docs/lasagna-pedia-footer.PNG)
+    ![Footer](docs/lasagna-pedia-footer.png)
 
 ### Future Features left to Implement
 
