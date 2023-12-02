@@ -29,6 +29,7 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 
 - __Footer__  
     The footer, like the navigation bar is implemented in all the pages. It has links to social media contacts.
+    ![Footer](docs/lasagna-pedia-footer.PNG)
 
 ### Future Features left to Implement
 
