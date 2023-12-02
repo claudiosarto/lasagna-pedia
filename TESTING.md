@@ -98,3 +98,4 @@ Testing performed on the following devices:
 | Navbar Contact (Desktop) | Reload Contact page | Click "Contact" link from navbar | Contact page reloads | Pass |
 | Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
 | Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
+
