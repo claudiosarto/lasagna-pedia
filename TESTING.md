@@ -57,8 +57,8 @@ Testing performed on the following devices:
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 |---|---|---|---|---|
-| Navbar (Mobile) | Navbar appear | Click the top right 3 lines | Navigation bar appears | Pass |
-| Navbar (Mobile) | Navbar disappear | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
+| Navbar Open (Mobile) | Navbar appears | Click the top right 3 lines | Navigation bar appears | Pass |
+| Navbar Close (Mobile) | Navbar disappears | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
 | Navbar Home (Mobile) | Home Page Reload | Clock "Home" link from navbar | Home page reloads | Pass |
 | Navbar Recipe (Mobile) | Open Recipe page | Click "Recipe" link from navbar | Recipe page opens | Pass |
 | Navbar Contact (Mobile) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
@@ -73,8 +73,8 @@ Testing performed on the following devices:
 
 | Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
 |---|---|---|---|---|
-| Navbar (Mobile) | Navbar appear | Click the top right 3 lines | Navigation bar appears | Pass |
-| Navbar (Mobile) | Navbar disappear | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
+| Navbar Open (Mobile) | Navbar appears | Click the top right 3 lines | Navigation bar appears | Pass |
+| Navbar Close (Mobile) | Navbar disappears | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
 | Navbar Home (Mobile) | Open Home Page | Clock "Home" link from navbar | Home page opens | Pass |
 | Navbar Recipe (Mobile) | Reload Recipe page | Click "Recipe" link from navbar | Recipe page reloads | Pass |
 | Navbar Contact (Mobile) | Open Contact page | Click "Contact" link from navbar | Contact page opens | Pass |
@@ -85,3 +85,16 @@ Testing performed on the following devices:
 | Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
 
 #### Contact Page
+
+| Feature | Expected Outcome | Testing Performed | Result | Pass/Fail |
+|---|---|---|---|---|
+| Navbar Open (Mobile) | Navbar appears | Click the top right 3 lines | Navigation bar appears | Pass |
+| Navbar Close (Mobile) | Navbar disappears | While Navbar is opened, click the 3 top right corner lines | Navigation bar disappears | Pass |
+| Navbar Home (Mobile) | Open Home Page | Clock "Home" link from navbar | Home page opens | Pass |
+| Navbar Recipe (Mobile) | Open Recipe page | Click "Recipe" link from navbar | Recipe page opens | Pass |
+| Navbar Contact (Mobile) | Reload Contact page | Click "Contact" link from navbar | Contact page reloads | Pass |
+| Navbar Home (Desktop) | Open Home Page | Clock "Home" link from navbar | Home page opens | Pass |
+| Navbar Recipe (Desktop) | Open Recipe page | Click "Recipe" link from navbar | Recipe page opens | Pass |
+| Navbar Contact (Desktop) | Reload Contact page | Click "Contact" link from navbar | Contact page reloads | Pass |
+| Footer Social Media Links | Open related social media page | Check every social media link opening in a new tab | All links open respective social media site in a separate tab | Pass |
+| Footer Mouse Hover on Social Media Icons (Desktop) | Icons change color | Hover on every social media link opening in a new tab | Each icon change color when hovering mouse | Pass |
