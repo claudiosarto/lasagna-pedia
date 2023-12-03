@@ -88,6 +88,16 @@ HTML, CSS
 
 ## Deployment
 
+Site had been deployed using Github pages function.
+
+I followed the Github istructions:
+- Under your repository name, click Settings. If you cannot see the "Settings" tab, select the dropdown menu, then click Settings.
+- In the "Code and automation" section of the sidebar, click Pages.
+- Under "Build and deployment", under "Source", select Deploy from a branch.
+- Under "Build and deployment", under "Branch", use the branch dropdown menu and select a publishing source.
+-  Visit https://claudiosarto.github.io/lasagna-pedia/index.html to view your new website.  
+Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
+
 ## Testing  
 Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed tests.
 
