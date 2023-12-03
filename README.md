@@ -65,13 +65,28 @@ Color scheme has been defined using [Paletton](https://paletton.com/) tool
 
 ![Color Scheme](docs/lasagna-pedia-color-scheme.png)
 
+## Technologies Used
+
+### Languages Used
+HTML, CSS
+
+### Frameworks, Tools and Resources Used
+- [Balsamiq](https://balsamiq.com/) - designing wireframes
+- [Favicon](https://favicon.io/) - importing icons for footer and header
+- [Microsoft Designer](https://designer.microsoft.com/) - generating images
+- [Birme](https://www.birme.net/) - images resizing/compression
+- [OpenAI ChatGPT](https://chat.openai.com/) - content generation
+- [Quetext](https://www.quetext.com/) - antiplagiarism checking
+- [Git](https://git-scm.com/) - code version control
+- [Github](https://github.com/) - repository for al the site files
+- [Gitpod](https://gitpod.io/) - IDE platform
+- [Google Developer Tools](https://developer.chrome.com/docs/) - troubleshooting CSS styling
+- [Am I Responsive](https://ui.dev/amiresponsive) - to generate a screenshot of different screen viewports 
+- [W3C HTML Validation Service](https://validator.w3.org/) - to validate HTML code
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) - to validate CSS code
+- [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) - to generate tables in the testing.md file
+
 ## Deployment
-
-### Technologies used
-
-### Github
-
-
 
 ## Testing  
 Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed tests.
@@ -83,16 +98,13 @@ Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed test
 - All media used have been generated using GenAI embedded in [Microsoft Designer](https://designer.microsoft.com/) - [T&C](https://designer.microsoft.com/termsOfUse.pdf)
 - Icons from [Font Awesome](https://fontawesome.com/)
 - Fonts from [Google Fonts](https://fonts.google.com/)
+- [W3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) for some HTML/CSS features
 
 ### Credits
 
 - Inspiration for the layout from the walthrough project "love Running" from Code institute
 - Some CSS tecniques (e.g. basic styling on html and body elements) have been reused from walkthrough project "Grand Hotel" from [Udemy - CSS Bootcamp - Master CSS (CSS Grid / CSS Flexbox)](https://www.udemy.com/course/css-bootcamp-master-in-css-including-css-grid-flexbox/) 
-- Readme structure/approach from [The Quiz Arms ](https://github.com/kera-cudmore/TheQuizArms/blob/main/README.md)
-- Images converted to webp format with [Birme](https://www.birme.net/)
-- [W3Schools](https://www.w3schools.com/) and [Stack Overflow](https://stackoverflow.com/) for troubleshooting/undersanding some tricky HTML/CSS features
 
 ### Acknowledgments
 
 Special thanks to my mentor Jubril Akolade for giving me hints and tips during the project.
-
