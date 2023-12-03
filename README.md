@@ -106,6 +106,7 @@ Please refer to ![Lasagna-pedia Testing](/TESTING.md) page for the performed tes
 ### Bugs
 No relevant bugs have been found during the implementation, deployment and testing.
 
+---
 ### Content  
 
 - History page has been generated with the help of [ChatGPT](https://chat.openai.com/). Content has been checked for antiplagiarism on using [Quetext](https://www.quetext.com/), report available at this [link](https://www.quetext.com/results/335349786683fe3a0f42) 
