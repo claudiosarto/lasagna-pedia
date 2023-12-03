@@ -99,7 +99,12 @@ I followed the Github istructions:
 Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
 
 ## Testing  
-Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed tests.
+
+### Manual Testing 
+Please refer to ![Lasagna-pedia Testing](/TESTING.md) page for the performed tests.
+
+### Bugs
+No relevant bugs have been found during the implementation, deployment and testing.
 
 ### Content  
 
