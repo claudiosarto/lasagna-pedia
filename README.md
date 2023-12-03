@@ -40,18 +40,34 @@ It will be also usefut to home chefs as it has the traditional recipe for make i
 - Add a "where to buy" all the proper ingredients
 - Evolve the site to a full eCommerce to sell all the different variations
 
-## Deployment  
+## Design  
 
 ### UX Design  
-TBD
+A "mobile-first" approach has been used for design the site so initially for mobile devices, prioritizing functionality and user experience on smaller screens. Then using media query function to increase fonts and arrange the content for bigger screens. 
+
+### Wireframes
+Wireframes created for mobile, tabled and desktop.
+
+![Wireframe Mobile](docs/lasagna-pedia-wireframe-mobile.png) ![Wireframe Tablet](docs/lasagna-pedia-wireframe-tablet.png)![Wireframe Desktop](docs/lasagna-pedia-wireframe-desktop.png)
+
 
 ### Color Scheme
 
 Color scheme has been defined using [Paletton](https://paletton.com/) tool
+
+- Header and footer background: `#DD9529`
+- Header and footer font/icons color: `#8C5400`
+- Content background color for all pages: `#FFCC7F` 
+
 ![Color Scheme](docs/lasagna-pedia-color-scheme.png)
 
-### Code Implementation Approach  
-TBD
+## Deployment
+
+### Technologies used
+
+### Github
+
+
 
 ## Testing  
 Please refer to ![Lasagna-pedia Testing](TESTING.md) page for the performed tests.
