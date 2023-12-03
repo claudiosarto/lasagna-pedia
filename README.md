@@ -48,8 +48,12 @@ A "mobile-first" approach has been used for design the site so initially for mob
 ### Wireframes
 Wireframes created for mobile, tabled and desktop.
 
-![Wireframe Mobile](docs/lasagna-pedia-wireframe-mobile.png) ![Wireframe Tablet](docs/lasagna-pedia-wireframe-tablet.png)![Wireframe Desktop](docs/lasagna-pedia-wireframe-desktop.png)
-
+![Wireframe Mobile](docs/lasagna-pedia-wireframe-mobile.png) 
+-
+![Wireframe Tablet](docs/lasagna-pedia-wireframe-tablet.png)
+-
+![Wireframe Desktop](docs/lasagna-pedia-wireframe-desktop.png)
+-
 
 ### Color Scheme
 
