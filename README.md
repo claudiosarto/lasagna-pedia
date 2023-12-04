@@ -86,8 +86,9 @@ HTML, CSS
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) - to validate CSS code
 - [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables) - to generate tables in the testing.md file
 
-## Deployment
+## Deployment & Local Development
 
+### Deployment
 Site had been deployed using Github pages function.
 
 I followed the Github istructions:
@@ -98,12 +99,32 @@ I followed the Github istructions:
 -  Visit https://claudiosarto.github.io/lasagna-pedia/index.html to view your new website.  
 Note that it can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub.
 
+### Local Development
+
+#### How to Fork
+
+To fork the repository:
+
+1. Log in (or sign up) to Github.
+2. Go to the repository for this project, [Lasagna-pedia](https://github.com/claudiosarto/lasagna-pedia)
+3. Click the Fork button in the top right corner.
+
+#### How to Clone
+
+To clone the repository:
+
+1. Log in (or sign up) to GitHub.
+2. Go to the repository for this project, [Lasagna-pedia](https://github.com/claudiosarto/lasagna-pedia)
+3. Click on the code button, select whether you would like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
+4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
+5. Type 'git clone' into the terminal and then paste the link you copied in step 3. Press enter.
+
 ## Testing  
 
 ### Manual Testing 
 Please refer to ![Lasagna-pedia Testing](/TESTING.md) page for the performed tests.
 
-### Bugs
+### Known Bugs
 No relevant bugs have been found during the implementation, deployment and testing.
 
 ---
@@ -123,4 +144,4 @@ No relevant bugs have been found during the implementation, deployment and testi
 
 ### Acknowledgments
 
-Special thanks to my mentor Jubril Akolade for giving me hints and tips during the project.
+I'd like to thank my mentor Jubril Akolade for giving me hints and tips during the project.
